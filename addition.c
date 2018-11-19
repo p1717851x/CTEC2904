@@ -10,7 +10,7 @@ printf("\nEnter two no: ");
 
 scanf("%d %d", &a, &b);
 
-sum = a + b;
+sum = a * b;
 
 printf("Sum : %d", sum);
 
